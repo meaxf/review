@@ -7,7 +7,7 @@
 # Import MySQL Connector/Python 
 import mysql.connector as connector
 
-connection=connector.connect(user="root",password="gingkoSQL12#$")
+connection=connector.connect(user="root",password="97975004jj")
 cursor = connection.cursor()
 cursor.execute("CREATE DATABASE little_lemon_db") 
 cursor.execute("USE little_lemon_db")
